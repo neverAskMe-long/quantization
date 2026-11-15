@@ -1,0 +1,4 @@
+model,accuracy_percent,file_size_mb,zipped_size_mb,total_weights,nonzero_weights,sparsity_percent,macs_millions,latency_ms_mean,latency_ms_p50,latency_ms_p99,throughput_img_per_s
+fp32,93.76,42.701,39.586,11173962,11173962,0.0,555.42,17.533,17.55,19.537,57.0
+unstructured,93.8,42.703,10.769,11173962,2002516,82.08,555.42,17.749,17.502,24.838,56.3
+structured,93.43,21.735,20.139,5679306,5679306,0.0,281.74,10.749,10.636,12.429,93.0
